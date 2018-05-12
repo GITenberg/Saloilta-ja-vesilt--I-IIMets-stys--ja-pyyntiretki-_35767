@@ -1,0 +1,25 @@
+_repo: Saloilta-ja-vesilt--I-IIMets-stys--ja-pyyntiretki-_35767
+_version: 0.1.0
+alternative_title: 'Från skog och sjö : Jagt- och fångstfärder. Finnish'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wetterhoff, Onni
+    gutenberg_agent_id: '37890'
+    url: http://www.gutenberg.org/2009/agents/37890
+description: ''
+gutenberg_issued: '2011-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35767'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Hunting stories'
+title: 'Saloilta ja vesiltä: Metsästys- ja pyyntiretkiä'
+url: http://www.gutenberg.org/ebooks/35767
