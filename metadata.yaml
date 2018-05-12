@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37890'
     url: http://www.gutenberg.org/2009/agents/37890
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35767#Saloilta-ja-vesilt--I-IIMets-stys--ja-pyyntiretki-
 gutenberg_issued: '2011-04-04'
 gutenberg_type: Text
 identifiers:
